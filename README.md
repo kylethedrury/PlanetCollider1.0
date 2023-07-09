@@ -1,2 +1,2 @@
 # PlanetCollider1.0
-Please read the document "Planet Collider Write Up.pdf"
+A C++ script for simulating the orbits of test masses around a stationary center of mass in Cartesian 2D space. 
